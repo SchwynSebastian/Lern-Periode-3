@@ -21,9 +21,15 @@ Ich werde mein Programmierprojekt (Wortschatztquiz) fertig erstellen und danach 
 
 | Testfall-Nummer	| Ausgangslage (Given) |	Eingabe (When)|	Ausgabe (Then)	| Erfüllt?|
 ---------------------------------------------------------------------------------------
+1 |   |   |   |   |
+2 |   |   |   |   |
+3 |   |   |   |   |
+4 |   |   |   |   |
+
 1				
 ...				
 4				
+
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
@@ -34,10 +40,14 @@ Ich werde mein Programmierprojekt (Wortschatztquiz) fertig erstellen und danach 
 - [ ] Den Code für die Schwierigkeitsstufe Schwer so schreiben, so dass 6 verschiedene mögliche Antworten in den 6 Checkboxen auftauchen.
 - [ ] So weit wie möglich im LB 164 kommen (die Datenbank konfigurieren)
 
-Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-5				
-7	Spiel gestartet, Schlange lang genug, dass sie sich beissen kann	Schlange beisst sich selber	Spiel endet	
-8				
+| Testfall-Nummer	| Ausgangslage (Given) |	Eingabe (When)|	Ausgabe (Then)	| Erfüllt?|
+---------------------------------------------------------------------------------------
+5 |   |   |   |   |
+6 |   |   |   |   |
+7 |   |   |   |   |
+8 |   |   |   |   |
+
+
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
