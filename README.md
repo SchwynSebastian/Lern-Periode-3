@@ -11,12 +11,13 @@ Mein Verbesserungsvorschlag war, dass ich Projekte bis zum Ende sehe und nicht b
 Ich werde mein Programmierprojekt (Wortschatztquiz) fertig erstellen und danach verfeinern.
 
 12.1.2024
-✍️ Heute habe ich am Anfang Ideen gesammelt, was für ein Projekt ich machen soll. Ich kam dann auf Beschluss dass ich mein Wortschatzquiz fertig programmieren wollte. Ich fing mit David die Fehler zu beheben und wir machten Fortschritt bis wir an einem grossen Buggankamen, dass den Code 2 anstatt 1mal exekutiert. Wir probierten den Fehler zu beheben und kamen am Ende der Lektion auf eine Idee: Den Code neuschreibe
+✍️ Heute habe ich am Anfang Ideen gesammelt, was für ein Projekt ich machen soll. Ich kam dann auf Beschluss dass ich mein Wortschatzquiz fertig programmieren wollte. Ich fing mit David die Fehler zu beheben und wir machten Fortschritt bis wir an einem grossen Buggankamen, dass den Code 2 anstatt 1 mal exekutiert. Wir probierten den Fehler zu beheben und kamen am Ende der Lektion auf eine Idee: Den Code neuschreibe
 
 19.1.2024
-[ ] Erstes Arbeitspaket
-[ ] ...
-[ ] Viertes AP
+[ ] 2 Moodle Tests im Modul 117
+[ ] Den Code für "Deine Auswahl" neuschreiben
+[ ] Die kleinen Buggs und Fehlende Wörter beheben, dass man "else" entfernen kann
+[ ] Der LB im Modul 164 bearbeite n(Teil 1 und 2 über Datenbanken erstellen)
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 1				
 ...				
