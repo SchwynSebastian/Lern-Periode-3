@@ -11,7 +11,7 @@ Mein Verbesserungsvorschlag war, dass ich Projekte bis zum Ende sehe und nicht b
 Ich werde mein Programmierprojekt (Wortschatztquiz) fertig erstellen und danach verfeinern.
 
 12.1.2024
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich am Anfang Ideen gesammelt, was für ein Projekt ich machen soll. Ich kam dann auf Beschluss dass ich mein Wortschatzquiz fertig programmieren wollte. Ich fing mit David die Fehler zu beheben und wir machten Fortschritt bis wir an einem grossen Buggankamen, dass den Code 2 anstatt 1mal exekutiert. Wir probierten den Fehler zu beheben und kamen am Ende der Lektion auf eine Idee: Den Code neuschreibe
 
 19.1.2024
 [ ] Erstes Arbeitspaket
