@@ -6,8 +6,8 @@ Sebastian Schwyn
 12.1. bis 23.2.2024
 
 Grob-Planung
-Ich bin mit meinen Noten zufrieden, ich war besonders stark im Modul 431. Ich wäre auch stark im Modul 319, habe aber vergessen Die Kriterien vom OBA zu bearbeiten. Ich finde dass das Modul 319 und 431 am wichtigsten sind. Ich hatte mir am Ende der Lp2 vorgenommen,  . 
-Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
+Ich bin mit meinen Noten zufrieden, ich war besonders stark im Modul 431. Ich wäre auch stark im Modul 319, habe aber vergessen Die Kriterien vom OBA zu bearbeiten. Ich finde dass das Modul 319 und 431 am wichtigsten sind. Ich hatte mir am Ende der Lp2 vorgenommen, mein Programmierprojekt fertig zu erstellen. 
+Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
 Ich werde mein Programmierprojekt (Wortschatztquiz) fertig erstellen und danach verfeinern.
 
 12.1.2024
