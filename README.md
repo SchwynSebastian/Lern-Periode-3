@@ -14,17 +14,17 @@ Ich werde mein Programmierprojekt (Wortschatztquiz) fertig erstellen und danach 
 ✍️ Heute habe ich am Anfang Ideen gesammelt, was für ein Projekt ich machen soll. Ich kam dann auf Beschluss dass ich mein Wortschatzquiz fertig programmieren wollte. Ich fing mit David die Fehler zu beheben und wir machten Fortschritt bis wir an einem grossen Buggankamen, dass den Code 2 anstatt 1 mal exekutiert. Wir probierten den Fehler zu beheben und kamen am Ende der Lektion auf eine Idee: Den Code neuschreibe
 
 19.1.2024
-- [ ] 2 Moodle Tests im Modul 117
+- [ ] Den Code nach Fehlern reflektieren
 - [ ] Den Code für "Deine Auswahl" neuschreiben
 - [ ] Die kleinen Buggs und Fehlende Wörter beheben, dass man "else" entfernen kann
-- [ ] Der LB im Modul 164 bearbeite n(Teil 1 und 2 über Datenbanken erstellen)
+- [ ] Den Designer schöner gestalten(mehr labels hinzufügen)
 
 | Testfall-Nummer	| Ausgangslage (Given) |	Eingabe (When)|	Ausgabe (Then)	| Erfüllt?|
----------------------------------------------------------------------------------------
-1 |   |   |   |   |
-2 |   |   |   |   |
-3 |   |   |   |   |
-4 |   |   |   |   |
+|-----------------|----------------------|----------------|-----------------|---------|
+1 | Den Code nach Fehlern reflektieren  |   |   |   |
+2 | Den Code für "Deine Auswahl" neuschreiben  |   |   |   |
+3 | Die kleinen Buggs und Fehlende Wörter beheben, dass man "else" entfernen kann  |   |   |   |
+4 | Den Designer schöner gestalten(mehr labels hinzufügen)  |   |   |   |
 
 1				
 ...				
@@ -41,7 +41,7 @@ Ich werde mein Programmierprojekt (Wortschatztquiz) fertig erstellen und danach 
 - [ ] So weit wie möglich im LB 164 kommen (die Datenbank konfigurieren)
 
 | Testfall-Nummer	| Ausgangslage (Given) |	Eingabe (When)|	Ausgabe (Then)	| Erfüllt?|
----------------------------------------------------------------------------------------
+|-----------------|----------------------|----------------|-----------------|---------|
 5 |   |   |   |   |
 6 |   |   |   |   |
 7 |   |   |   |   |
