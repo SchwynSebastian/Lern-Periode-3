@@ -18,6 +18,7 @@ Ich werde mein Programmierprojekt (Wortschatztquiz) fertig erstellen und danach 
 - [ ] Den Code für "Deine Auswahl" neuschreiben
 - [ ] Die kleinen Buggs und Fehlende Wörter beheben, dass man "else" entfernen kann
 - [ ] Der LB im Modul 164 bearbeite n(Teil 1 und 2 über Datenbanken erstellen)
+
 | Testfall-Nummer	| Ausgangslage (Given) |	Eingabe (When)|	Ausgabe (Then)	| Erfüllt?|
 ---------------------------------------------------------------------------------------
 1				
