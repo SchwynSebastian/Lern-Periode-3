@@ -14,11 +14,12 @@ Ich werde mein Programmierprojekt (Wortschatztquiz) fertig erstellen und danach 
 ✍️ Heute habe ich am Anfang Ideen gesammelt, was für ein Projekt ich machen soll. Ich kam dann auf Beschluss dass ich mein Wortschatzquiz fertig programmieren wollte. Ich fing mit David die Fehler zu beheben und wir machten Fortschritt bis wir an einem grossen Buggankamen, dass den Code 2 anstatt 1 mal exekutiert. Wir probierten den Fehler zu beheben und kamen am Ende der Lektion auf eine Idee: Den Code neuschreibe
 
 19.1.2024
-[ ] 2 Moodle Tests im Modul 117
-[ ] Den Code für "Deine Auswahl" neuschreiben
-[ ] Die kleinen Buggs und Fehlende Wörter beheben, dass man "else" entfernen kann
-[ ] Der LB im Modul 164 bearbeite n(Teil 1 und 2 über Datenbanken erstellen)
-Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
+- [ ] 2 Moodle Tests im Modul 117
+- [ ] Den Code für "Deine Auswahl" neuschreiben
+- [ ] Die kleinen Buggs und Fehlende Wörter beheben, dass man "else" entfernen kann
+- [ ] Der LB im Modul 164 bearbeite n(Teil 1 und 2 über Datenbanken erstellen)
+| Testfall-Nummer	| Ausgangslage (Given) |	Eingabe (When)|	Ausgabe (Then)	| Erfüllt?|
+---------------------------------------------------------------------------------------
 1				
 ...				
 4				
@@ -27,10 +28,10 @@ Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 26.1.2024
-[ ] Fünftes AP
-[ ] Spiel endet, wenn Schlange sich selber beisst
-
-[ ] Achtes AP
+- [ ] Den Code für die Schwierigkeitsstufe Schwer so schreiben, dass man in einer Textbox ein passendes Fremdwort reinschreiben kann
+- [ ] 1 Nachweis im Modul 117 fertig lösen und abgeben
+- [ ] Den Code für die Schwierigkeitsstufe Schwer so schreiben, so dass 6 verschiedene mögliche Antworten in den 6 Checkboxen auftauchen.
+- [ ] So weit wie möglich im LB 164 kommen (die Datenbank konfigurieren)
 
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 5				
