@@ -35,17 +35,18 @@ Ich werde mein Programmierprojekt (Wortschatztquiz) fertig erstellen und danach 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 26.1.2024
-- [ ] Den Code für die Schwierigkeitsstufe Schwer so schreiben, dass man in einer Textbox ein passendes Fremdwort reinschreiben kann
-- [ ] 1 Nachweis im Modul 117 fertig lösen und abgeben
-- [ ] Den Code für die Schwierigkeitsstufe Schwer so schreiben, so dass 6 verschiedene mögliche Antworten in den 6 Checkboxen auftauchen.
-- [ ] So weit wie möglich im LB 164 kommen (die Datenbank konfigurieren)
+- [ ] Code schreiben dass man beim Textbox ein passendes Fremdwort reinschreiben kann
+- [ ] Mehr Wörter hinzufügen sodass beliebig vile richtige und falsche Antworten auftauchen können
+- [ ] Mehr Wörter hinzufügen sodass beliebig vile richtige und falsche Antworten auftauchen können
+- [ ] Code schreiben, sodass 6 verschiedene mögliche Antworten in den 6 Checkboxen auftauchen
 
 | Testfall-Nummer	| Ausgangslage (Given) |	Eingabe (When)|	Ausgabe (Then)	| Erfüllt?|
 |-----------------|----------------------|----------------|-----------------|---------|
-5 |   |   |   |   |
-6 |   |   |   |   |
-7 |   |   |   |   |
-8 |   |   |   |   |
+5 | Code schreiben dass man beim Textbox ein passendes Fremdwort reinschreiben kann  |   |   |   |
+6 | Mehr Wörter hinzufügen sodass beliebig vile richtige und falsche Antworten auftauchen können  |   |   |   |
+7 | Mehr Wörter hinzufügen sodass beliebig vile richtige und falsche Antworten auftauchen können  |   |   |   |
+8 | Code schreiben, sodass 6 verschiedene mögliche Antworten in den 6 Checkboxen auftauchen  |   |   |   |
+
 
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
