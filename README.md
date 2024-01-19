@@ -11,20 +11,20 @@ Mein Verbesserungsvorschlag war, dass ich Projekte bis zum Ende sehe und nicht b
 Ich werde mein Programmierprojekt (Wortschatztquiz) fertig erstellen und danach verfeinern.
 
 12.1.2024
-✍️ Heute habe ich am Anfang Ideen gesammelt, was für ein Projekt ich machen soll. Ich kam dann auf Beschluss dass ich mein Wortschatzquiz fertig programmieren wollte. Ich fing mit David die Fehler zu beheben und wir machten Fortschritt bis wir an einem grossen Buggankamen, dass den Code 2 anstatt 1 mal exekutiert. Wir probierten den Fehler zu beheben und kamen am Ende der Lektion auf eine Idee: Den Code neuschreibe
+✍️ Heute habe ich am Anfang Ideen gesammelt, was für ein Projekt ich machen soll. Ich kam dann auf Beschluss dass ich mein Wortschatzquiz fertig programmieren wollte. Ich fing mit David die Fehler zu beheben und wir machten Fortschritt bis wir an einem grossen Buggankamen, dass den Code 2 anstatt 1 mal exekutiert. Wir probierten den Fehler zu beheben und kamen am Ende der Lektion auf eine Idee: Den Code neuschreiben
 
 19.1.2024
-- [ ] Den Code nach Fehlern reflektieren
-- [ ] Den Code für "Deine Auswahl" neuschreiben
-- [ ] Die kleinen Buggs und Fehlende Wörter beheben, dass man "else" entfernen kann
-- [ ] Den Designer schöner gestalten(mehr labels hinzufügen)
+- [ ] Ein Windows Forms Snake spiel erstellen( basic GUI )
+- [ ] Die Bewegung (WASD) coden sodass man nach oben, unten, links und rechts gehen kann
+- [ ] Den Code nach Buggs Testen, die das Bewegen verhindern
+- [ ] Den Designer schöner gestalten und ein Feld machen indem der Snake sein soll
 
 | Testfall-Nummer	| Ausgangslage (Given) |	Eingabe (When)|	Ausgabe (Then)	| Erfüllt?|
 |-----------------|----------------------|----------------|-----------------|---------|
-1 | Den Code nach Fehlern reflektieren  |   |   |   |
-2 | Den Code für "Deine Auswahl" neuschreiben  |   |   |   |
-3 | Die kleinen Buggs und Fehlende Wörter beheben, dass man "else" entfernen kann  |   |   |   |
-4 | Den Designer schöner gestalten(mehr labels hinzufügen)  |   |   |   |
+1 | Ein Windows Forms Snake spiel erstellen( basic GUI )  |   |   |   |
+2 | Die Bewegung (WASD) coden sodass man nach oben, unten, links und rechts gehen kann  |   |   |   |
+3 | Den Code nach Buggs Testen, die das Bewegen verhindern  |   |   |   |
+4 | Den Designer schöner gestalten und ein Feld machen indem der Snake sein soll  |   |   |   |
 
 1				
 ...				
@@ -35,17 +35,17 @@ Ich werde mein Programmierprojekt (Wortschatztquiz) fertig erstellen und danach 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 26.1.2024
-- [ ] Code schreiben dass man beim Textbox ein passendes Fremdwort reinschreiben kann
-- [ ] Mehr Wörter hinzufügen sodass beliebig vile richtige und falsche Antworten auftauchen können
-- [ ] Mehr Wörter hinzufügen sodass beliebig vile richtige und falsche Antworten auftauchen können
-- [ ] Code schreiben, sodass 6 verschiedene mögliche Antworten in den 6 Checkboxen auftauchen
+- [ ] Gegenstände reinfügen, sodass man Punkte sammeln kann wenn man sie berührt
+- [ ] Die Feldern in verschiedenen Farben machen
+- [ ] Coden, das bestimmte Gegenstände mehr Punkte gibt
+- [ ] Coden, sodass man wieder von vorne anfangen kann wenn man stirb oder es pausieren kann
 
 | Testfall-Nummer	| Ausgangslage (Given) |	Eingabe (When)|	Ausgabe (Then)	| Erfüllt?|
 |-----------------|----------------------|----------------|-----------------|---------|
-5 | Code schreiben dass man beim Textbox ein passendes Fremdwort reinschreiben kann  |   |   |   |
-6 | Mehr Wörter hinzufügen sodass beliebig vile richtige und falsche Antworten auftauchen können  |   |   |   |
-7 | Mehr Wörter hinzufügen sodass beliebig vile richtige und falsche Antworten auftauchen können  |   |   |   |
-8 | Code schreiben, sodass 6 verschiedene mögliche Antworten in den 6 Checkboxen auftauchen  |   |   |   |
+5 | Gegenstände reinfügen, sodass man Punkte sammeln kann wenn man sie berührt  |   |   |   |
+6 | Die Feldern in verschiedenen Farben machen  |   |   |   |
+7 | Coden, das bestimmte Gegenstände mehr Punkte gibt  |   |   |   |
+8 | Coden, sodass man wieder von vorne anfangen kann wenn man stirb oder es pausieren kann  |   |   |   |
 
 
 
