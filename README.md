@@ -14,8 +14,8 @@ Ich werde mein Programmierprojekt (Wortschatztquiz) fertig erstellen und danach 
 ✍️ Heute habe ich am Anfang Ideen gesammelt, was für ein Projekt ich machen soll. Ich kam dann auf Beschluss dass ich mein Wortschatzquiz fertig programmieren wollte. Ich fing mit David die Fehler zu beheben und wir machten Fortschritt bis wir an einem grossen Buggankamen, dass den Code 2 anstatt 1 mal exekutiert. Wir probierten den Fehler zu beheben und kamen am Ende der Lektion auf eine Idee: Den Code neuschreiben
 
 19.1.2024
-- [ ] Ein Windows Forms Snake spiel erstellen( basic GUI )
-- [ ] Die Bewegung (WASD) coden sodass man nach oben, unten, links und rechts gehen kann
+- [x] Ein Windows Forms Snake spiel erstellen( basic GUI )
+- [x] Die Bewegung (WASD) coden sodass man nach oben, unten, links und rechts gehen kann
 - [ ] Den Code nach Buggs Testen, die das Bewegen verhindern
 - [ ] Den Designer schöner gestalten und ein Feld machen indem der Snake sein soll
 
@@ -30,9 +30,9 @@ Ich werde mein Programmierprojekt (Wortschatztquiz) fertig erstellen und danach 
 ...				
 4				
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+✍️ Heute am 19.1 habe ich^ein einfaches Snake-Spiel für Windows Forms erstellt. Spieler können sich mit den Tasten WASD bewegen. Der Code wurde noch nicht auf mögliche Fehler beim Bewegen getestet, weil ich meinen Zeitplan falsch verteilt habe. Ich plane auch, das Design zu verbessern, besonders das Spielfeld für den Snake. Ich habe aber heute anstatt konzentriertes arbeiten, einfach sehr viel code geschrieben, getestet wird nächstes mal.
+ 
 
-☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 26.1.2024
 - [ ] Gegenstände reinfügen, sodass man Punkte sammeln kann wenn man sie berührt
