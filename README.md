@@ -49,9 +49,9 @@ Ich werde mein Programmierprojekt (Wortschatztquiz) fertig erstellen und danach 
 
 
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+Ich habe heute angefangen die Buggs in meinem Programm zu beseitigen. Dieses brauchte viel länger als gedacht und konnte deswegen das Design nicht verbessern. Nach dem langen reparieren meines Codes, ging das Programm leider immer noch nicht, weil ich am Anfang des Projekts, den Code nicht sauber auf Winforms übertragen habe. Da ich nicht mehr viel Zeit hatte, führte es dazu, dass mein Code nicht richtig funktioniert. (52 wörter)
 
-☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
+
 
 16.2.2024
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
