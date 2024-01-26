@@ -1,9 +1,19 @@
+using System;
+using System.IO;
+using System.Net.Http;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
 namespace Snake_forms
 {
     public partial class Form1 : Form
-    {    
-        public partial class SnakeForm : Form
+    {
+
+        private void Form1_Load(object s, EventArgs e)
         {
+
+        }
+
             private const int GridSize = 25;
             private const int CellSize = 20;
             private List<Point> snake;
@@ -12,11 +22,13 @@ namespace Snake_forms
             private string timer1;
             
 
-            public SnakeForm()
+            public Form1()
             {
-                InitializeComponent();
-                InitializeGame();
+            InitializeComponent();
+            InitializeGame();
             }
+
+            
 
             private void InitializeGame()
             {
@@ -26,7 +38,7 @@ namespace Snake_forms
             };
                 GenerateFood();
                 direction = Direction.Right;
-                timer1.Start();
+                
             }
 
             private void GenerateFood()
@@ -147,7 +159,7 @@ namespace Snake_forms
 
             private void GameOver()
             {
-                timer1.Stop();
+             
                 MessageBox.Show("Game Over! Your score: " + (snake.Count - 1), "Game Over", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 InitializeGame();
             }
@@ -161,5 +173,4 @@ namespace Snake_forms
             Right
         }
     }
-}
 
