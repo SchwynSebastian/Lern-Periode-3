@@ -54,9 +54,6 @@ Ich habe heute angefangen die Buggs in meinem Programm zu beseitigen. Dieses bra
 
 
 16.2.2024
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+✍️ Heute, am 16.2., habe ich beschlossen, meinen alten Code für das Snake-Spiel in der Konsole zu überarbeiten, um ihn sauberer zu gestalten und Fehler zu beheben. Dabei habe ich das Spiel auch erweitert und spielbar gemacht. Leider hat mein Projekt "Winforms Snake" nicht wie geplant funktioniert, da die Übertragung meines Codes auf Windows Forms nicht zu gut verlief. Nach langer Überlegung habe ich mich entschieden, mein consoel Spiel zu verbessern, anstatt mich weiter mit meinem fehlerhaften Windows Forms Snake-Spiel zu befassen. Die Zeit wurde sehr knapp und mir wurde klar, dass ich mir während der LB3 zu viel vorgenommen hatte. Ich konnte dadurch meine ursprünglichen Ziele nicht erreichen und musste mich stattdessen improvisierend meiner alten Arbeit (als Vorlage für Windows Forms) widmen. (Wörter 111)
 
-Reflexion
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
-
-Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 10-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
+Ich fand die 10 woöchige LB besser, da ich mehr Zeit hatte, mich für ein grosses Projekt zu fixiern im Vergleich zu der 4 wöchigen LB wo ich immer im Stress war und nicht genügend Zeit hatte.
